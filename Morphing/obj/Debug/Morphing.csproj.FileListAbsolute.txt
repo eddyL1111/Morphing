@@ -1,0 +1,9 @@
+J:\Programs2\Workplace\Csharp\Morhping\Morphing\Morphing\bin\Debug\Morphing.exe.config
+J:\Programs2\Workplace\Csharp\Morhping\Morphing\Morphing\obj\Debug\Morphing.csprojResolveAssemblyReference.cache
+J:\Programs2\Workplace\Csharp\Morhping\Morphing\Morphing\obj\Debug\Morphing.Form1.resources
+J:\Programs2\Workplace\Csharp\Morhping\Morphing\Morphing\obj\Debug\Morphing.Properties.Resources.resources
+J:\Programs2\Workplace\Csharp\Morhping\Morphing\Morphing\obj\Debug\Morphing.csproj.GenerateResource.Cache
+J:\Programs2\Workplace\Csharp\Morhping\Morphing\Morphing\bin\Debug\Morphing.exe
+J:\Programs2\Workplace\Csharp\Morhping\Morphing\Morphing\bin\Debug\Morphing.pdb
+J:\Programs2\Workplace\Csharp\Morhping\Morphing\Morphing\obj\Debug\Morphing.exe
+J:\Programs2\Workplace\Csharp\Morhping\Morphing\Morphing\obj\Debug\Morphing.pdb
