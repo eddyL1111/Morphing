@@ -339,7 +339,7 @@ namespace Morphing
                 g_frames[j] = Utility.convertDataToBitmap(toSrcData);
 
             }
-            /*
+            
             for (int i=0; i < g_numFrames; i++)
             {
                 g_frames[i] = new Bitmap(source_pb.Width, source_pb.Height);
@@ -347,7 +347,7 @@ namespace Morphing
                 double toDestFrac = ((double)(g_numFrames - i) / frames);
                 crossDissolve(g_frames[i], toDestPxls[i+1], toSrcPxls[i+1], toDestFrac);
                 //crossDissolve(g_frames[i], toDestPxls[0], toSrcPxls[0], toDestFrac);
-            }*/
+            }
             
             morphed_pb.Image = g_frames[0];
         }
